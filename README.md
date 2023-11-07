@@ -72,6 +72,21 @@ I enjoy connecting with fellow developers, tech enthusiasts, and anyone passiona
 - **Twitter**: ***[@sec_fortress](https://twitter.com/sec_fortress)***
 - **Portfolio**: ***https://sec-fortress.github.io***
 
+<div align="center">
+<a href="https://www.linkedin.com/in/sci-sec" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/sec-fortress" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/sec_fortress" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/https://youtube.com/@sec-fortress" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 
 Don't hesitate to drop me a message or connect with me. I'm always open to engaging in exciting discussions or collaborating on fascinating projects.
 
