@@ -65,12 +65,6 @@ I just Completed my **Practical Junior Penetration Tester** (PJPT) Practice and 
 
 <h2 align="center">Let's Connect 📫</h2>
 
-I enjoy connecting with fellow developers, tech enthusiasts, and anyone passionate about the intersection of technology and innovation. Feel free to reach out to me via:
-
-- **Youtube**: ***[@sec-fortress](https://youtube.com/@sec-fortress)*** 
-- **LinkedIn**: ***[@sec-fortress](https://www.linkedin.com/in/sci-sec)***
-- **Twitter**: ***[@sec_fortress](https://twitter.com/sec_fortress)***
-- **Portfolio**: ***https://sec-fortress.github.io***
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sci-sec" target="_blank">
@@ -87,8 +81,3 @@ I enjoy connecting with fellow developers, tech enthusiasts, and anyone passiona
 </a>  
 </div>  
 
-
-Don't hesitate to drop me a message or connect with me. I'm always open to engaging in exciting discussions or collaborating on fascinating projects.
-
-[![GitHub Follow](https://img.shields.io/github/followers/sec-fortress?style=social)](https://github.com/sec-fortress)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sec_fortress?style=social)](https://twitter.com/sec_fortress)
