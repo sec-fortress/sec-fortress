@@ -1,3 +1,18 @@
+<!--  https://ritik307.github.io/portfolio/  -->
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/ritik307/sec-fortress"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/sec-fortress"/>
+ <img src="https://badges.pufler.dev/commits/monthly/sec-fortress" />
+
+</p>
+
 # About
 
 Hey there! 👋 I'm **Olaoluwa**, a passionate Penetration Tester with a love for Offensive Security. Welcome to my GitHub profile, where I enjoy exploring and working on exciting projects. I believe in the power of technology to make a positive impact and strive to create innovative solutions that solve real-world problems.
