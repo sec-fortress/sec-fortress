@@ -45,7 +45,7 @@ Continuous learning is a crucial aspect of my journey. I'm passionate about stay
 # **My Github Stats ⚖️**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sec-fortress&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sec-fortress&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sec-fortress&theme=radical&hide_border=false)<br/>
 
 ## 📫 Let's Connect
 
