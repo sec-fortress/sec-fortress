@@ -43,6 +43,10 @@ I'm always eager to expand my skill set and open to exploring new technologies a
 
 Continuous learning is a crucial aspect of my journey. I'm passionate about staying up-to-date with the latest advancements in Penetration Testing. Currently, I'm focusing on building my skills, including balancing life. I believe in the power of knowledge sharing, and I'm actively involved in **CyberGeeks, CyberPatron, RedTeam Village** to contribute and learn from others.
 
+# **My Github Stats ⚖️**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sec-fortress&show_icons=true&theme=radical)
+
 
 ## 📫 Let's Connect
 
