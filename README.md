@@ -23,7 +23,7 @@ I'm a passionate Penetration Tester, Red Teamer and a CTF Player. I am passionat
 
 <!-- I'm currently focusing on my **PJPT prep, offsec Labs and scripting**, where I aim to pass the exams(PJPT), not just pass but learn from it well enough and putting it to practice thereby boosting my skills in solving real world problems in areas like [**Active Directory, Linux and Windows exploitation, VAPT ........**]. I'm excited about pushing the boundaries and learning new things in this field. Feel free to explore my repositories to see what I'm up to! -->
 
-I just Completed my **Practical Junior Penetration Tester** (PJPT) Practice and got a **Certified Red Team Professional** (CRTP) voucher which guarantees the skill of an individual to understand and assess security of an Enterprise Active Directory environment after the Course, All thanks to **[@DavidAlvesWeb](https://twitter.com/DavidAlvesWeb)** and the entire **[AlteredSecurity](@https://twitter.com/AlteredSecurity)** Team for this offer. I hope to pass the exams on the 1st of January 2024 by God's grace 😙.
+I just Completed my **Practical Junior Penetration Tester** (PJPT) Practice and got a **Certified Red Team Professional** (CRTP) voucher which guarantees the skill of an individual to understand and assess security of an Enterprise Active Directory environment after the Course, All thanks to God, **[DavidAlvesWeb](https://twitter.com/DavidAlvesWeb)** and the entire **[AlteredSecurity](https://twitter.com/AlteredSecurity)** Team for this offer. I hope to pass the exams on the 1st of January 2024 by God's grace 😙.
 
 
 
