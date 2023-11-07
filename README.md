@@ -14,9 +14,9 @@
 </p>
 
 
-<!-- <p align="center">
+<p align="center">
 I'm **Olaoluwa**, a passionate Penetration Tester, Red Teamer and a CTF Player. I am passionate about the field of Offensive Security 😄. I believe in the power of technology to make a positive impact and try as much as possible to learn new things xD.
-</p>   -->
+</p>
 
 
 <h2 align="center"> 🔭 Current Focus </h2>
