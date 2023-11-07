@@ -6,6 +6,9 @@ Hey there! 👋 I'm **Olaoluwa**, a passionate Penetration Tester with a love fo
 
 I'm currently focusing on my **PJPT prep, offsec Labs and scripting**, where I aim to pass the exams(PJPT), not just pass but learn from it well enough and putting it to practice thereby boosting my skills in solving real world problems in areas like [**Active Directory, Linux and Windows exploitation, VAPT ........**]. I'm excited about pushing the boundaries and learning new things in this field. Feel free to explore my repositories to see what I'm up to!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sec-fortress&show_icons=true&theme=radical)
+
+
 ## 💻 Tech Stack
 
 Here are some of the technologies and tools I frequently work with:
