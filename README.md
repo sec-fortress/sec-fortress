@@ -8,9 +8,8 @@ I'm currently focusing on my **PJPT prep, offsec Labs and scripting**, where I a
 
 
 
-## 💻 Tech Stack
+# **Tech Stack 🖥️**
 
-Here are some of the technologies and tools I frequently work with:
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -35,19 +34,12 @@ Here are some of the technologies and tools I frequently work with:
 <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 </p>
 
-I'm always eager to expand my skill set and open to exploring new technologies and frameworks. I enjoy collaborating with like-minded individuals, so if you have any interesting ideas or projects, let's connect!
-
-
-## 🌱 Learning and Growth
-
-Continuous learning is a crucial aspect of my journey. I'm passionate about staying up-to-date with the latest advancements in Penetration Testing. Currently, I'm focusing on building my skills, including balancing life. I believe in the power of knowledge sharing, and I'm actively involved in **CyberGeeks, CyberPatron, RedTeam Village** to contribute and learn from others.
-
 # **My Github Stats ⚖️**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sec-fortress&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sec-fortress&theme=radical&hide_border=false)<br/>
 
-## 📫 Let's Connect
+# **Let's Connect 📫**
 
 I enjoy connecting with fellow developers, tech enthusiasts, and anyone passionate about the intersection of technology and innovation. Feel free to reach out to me via:
 
