@@ -15,7 +15,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=1793D1&center=true&width=410&height=45&lines=I+use+arch+btw+<3">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=1793D1&center=true&width=410&height=45&lines=I+use+kali+btw+<3">
       </samp>
     </p>
 <p align="center"><a href="https://kali.org/">
