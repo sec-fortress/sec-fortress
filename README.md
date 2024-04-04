@@ -19,7 +19,7 @@
       </samp>
     </p>
 <p align="center"><a href="https://www.debian.org/">
-    <img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%">
+    <img src="https://i.postimg.cc/cJ074bRg/Kali-Linux-Penetration-Testing-and-Ethical-Hacking-Linux-Distribution.jpg" height="20%" width="20%">
 </a></p>
         <br> 
 <p align="center"> <a href="https://www.w3schools.com/c/" target="_blank">
