@@ -4,7 +4,7 @@
             <b>
             Hello There!
         <br>
-            I'm Olaoluwa, a 19yr/old Criminology Student, A Linux & Active Directory enthusiast.
+            I'm Olaoluwa, a 19yr/old Criminology Student, Also a Linux & Active Directory enthusiast.
                 I love to Script/Automate stuff in my free time, Also love to play CTFs sometimes :)
             </b>
         <br>
@@ -12,7 +12,7 @@
           <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=24&color=BC83E3&center=true&width=410&height=45&lines=Explore,+exploit,+evolve.">
         <br>
             <b>
-            ~ マルコフ コマロフ ~
+            ~ 𝓞𝓵𝓪𝓴𝓸𝓳𝓸 𝓞𝓵𝓪𝓵𝓾𝔀𝓪 ~
             </b>
         <br>
         <br>
