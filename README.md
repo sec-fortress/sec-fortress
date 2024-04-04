@@ -83,14 +83,14 @@
 <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="linux-OS" width="40" height="40"/>
 </a>
-<a href="burp" target="_blank">
-    <img src="https://i.postimg.cc/3RDD863C/images.jpg" alt="linux-OS" width="40" height="40"/>
+<a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://i.postimg.cc/HLDqv8VY/images-removebg-preview-1.png" alt="linux-OS" width="40" height="40"/>
 </a>
-<a href="" target="_blank">
-    <img src="" alt="linux-OS" width="40" height="40"/>
+<a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://i.postimg.cc/Ssw1RwCy/download-removebg-preview.png" alt="linux-OS" width="40" height="40"/>
 </a>
-<a href="" target="_blank">
-    <img src="" alt="linux-OS" width="40" height="40"/>
+<a href="https://bloodhound.readthedocs.io/en/latest/" target="_blank">
+    <img src="https://i.postimg.cc/5yS5JGmK/1-E0-I-QO-1-U8y-ROC6-Fb-Uy-HGA-removebg-preview.png" alt="linux-OS" width="40" height="40"/>
 </a>
 <a href="https://ohmyz.sh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
