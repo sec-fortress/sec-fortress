@@ -59,6 +59,18 @@
 <a href="https://nginx.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="linux-OS" width="40" height="40"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/MS-DOS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://httpd.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://cloudflare.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://www.markdownguide.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
 <a href="https://ohmyz.sh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
 </a> </p>
