@@ -1,17 +1,4 @@
 <!--  https://ritik307.github.io/portfolio/  -->
-<p align="center">
- 
-</p align="center">
-<img src="https://i.imgur.com/b9CAAxE.png" />
-
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/sec-fortress/sec-fortress"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/sec-fortress"/>
- <img src="https://badges.pufler.dev/commits/monthly/sec-fortress" />
-
-</p>
 
 
 <p align="center">
