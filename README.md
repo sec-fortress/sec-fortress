@@ -55,10 +55,7 @@
   <a href="https://app.hackthebox.eu/profile/496941">
     <img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
   </a>
-    
-  <a href="https://tryhackme.com/p/secfortress">
-    <script src="https://tryhackme.com/badge/1847092"></script>
-  </a>
+  <script src="https://tryhackme.com/badge/1847092"></script>
 </p>
 
 
