@@ -56,7 +56,6 @@
 <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
 </a>
-<br>
 <a href="https://nginx.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="linux-OS" width="40" height="40"/>
 </a>
@@ -71,6 +70,27 @@
 </a>
 <a href="https://www.markdownguide.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://www.putty.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://www.jetbrains.com/pycharm/?var=1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://stackoverflow.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt="linux-OS" width="40" height="40"/>
 </a>
 <a href="https://ohmyz.sh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
