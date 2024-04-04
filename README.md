@@ -4,7 +4,8 @@
             <b>
             Hello There!
         <br>
-            I'm Olaoluwa, a Student, and Linux\\Active Directory enthusiast.
+            I'm Olaoluwa, a 19yr/old Criminology Student, A Linux & Active Directory enthusiast.
+                I love to Script/Automate stuff in my free time, Also love to play CTFs sometimes :)
             </b>
         <br>
         <br>
