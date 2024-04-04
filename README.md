@@ -55,8 +55,11 @@
   <a href="https://app.hackthebox.eu/profile/496941">
     <img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
   </a>
-  <script src="https://tryhackme.com/badge/1847092"></script>
+  <a href="https://tryhackme.com/p/v37r1x">
+    <img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/v37r1x.png" alt="TryHackMe">
+  </a>
 </p>
+
 
 
 
