@@ -8,7 +8,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=24&color=BC83E3&center=true&width=410&height=45&lines=To+understand+a+system,+you+must+interact+with+it.">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=24&color=BC83E3&center=true&width=410&height=45&lines=Hackers+gonna+hack+anyway.">
         <br>
             <b>
             ~ マルコフ コマロフ ~
