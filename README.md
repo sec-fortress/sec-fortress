@@ -51,13 +51,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/>
 </a>
 <a href="https://www.latex-project.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/>
 </a>
-<a href="" target="_blank">
-    <img src="" alt="linux-OS" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
 </a>
-<a href="" target="_blank">
-    <img src="" alt="linux-OS" width="40" height="40"/>
+<a href="https://nginx.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="linux-OS" width="40" height="40"/>
 </a>
 <a href="https://ohmyz.sh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
