@@ -48,9 +48,6 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sec-fortress&show_icons=true&theme=dracula&layout=compact&hide=html,roff,css" />
 </a></p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
-
 <p align="center">
   <a href="https://app.hackthebox.eu/profile/623459">
     <img src="http://www.hackthebox.eu/badge/image/623459" alt="Hack The Box">
@@ -59,8 +56,4 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/secfortress.png" alt="TryHackMe">
   </a>
 </p>
-
-
-
-
-
+<p align="right"><strong><samp>」</samp></strong></p>
