@@ -96,16 +96,16 @@
     <img src="https://i.postimg.cc/RhW3sDDn/download-removebg-preview-1.png" alt="linux-OS" width="40" height="40"/>
 </a>
 <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://i.postimg.cc/RZdH0KKh/download.jpg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://i.postimg.cc/V6p7H3kx/wireshark-104082-removebg-preview.png" alt="linux-OS" width="40" height="40"/>
 </a>
 <a href="https://wazuh.com/" target="_blank">
     <img src="https://i.postimg.cc/y8G7nNzn/images-removebg-preview-2.png" alt="linux-OS" width="40" height="40"/>
 </a>
-<a href="" target="_blank">
-    <img src="" alt="linux-OS" width="40" height="40"/>
+<a href="https://www.pfsense.org/" target="_blank">
+    <img src="https://i.postimg.cc/HnTJHLnX/download-removebg-preview-2.png" alt="linux-OS" width="40" height="40"/>
 </a>
-<a href="" target="_blank">
-    <img src="" alt="linux-OS" width="40" height="40"/>
+<a href="https://ghost.org/" target="_blank">
+    <img src="https://i.postimg.cc/FKZ58FM2/images-removebg-preview-3.png" alt="linux-OS" width="40" height="40"/>
 </a>
 <a href="https://ohmyz.sh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
