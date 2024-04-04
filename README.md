@@ -1,10 +1,41 @@
-<!--  https://ritik307.github.io/portfolio/  -->
-
-
-<p align="center">
-I'm a passionate Penetration Tester, Red Teamer and a CTF Player. I am passionate about the field of Offensive Security 😄. I believe in the power of technology to make a positive impact and try as much as possible to learn new things xD.
-</p>
-
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+            <b>
+            Hello There!
+        <br>
+            I'm Maarkov, a Student, and Linux enthusiast.
+            </b>
+        <br>
+        <br>
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=24&color=BC83E3&center=true&width=410&height=45&lines=Everything+can+be+optimized">
+        <br>
+            <b>
+            ~ マルコフ コマロフ ~
+            </b>
+        <br>
+        <br>
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=1793D1&center=true&width=410&height=45&lines=I+use+arch+btw+<3">
+      </samp>
+    </p>
+<p align="center"><a href="https://archlinux.org/">
+    <img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%">
+</a></p>
+        <br> 
+<p align="center"> <a href="https://www.w3schools.com/c/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://es.wikipedia.org/wiki/Bash" target="_blank">
+    <img src="https://i.postimg.cc/KYYRkqtV/Terminalicon2.png" alt="react" width="40" height="40"/>
+</a> </p>
+<br>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markov-Komarov&show_icons=true&theme=dracula&layout=compact&hide=html,roff,css" />
+</a></p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <h2 align="center">Current Focus 🔭</h2>
 
@@ -41,30 +72,4 @@ I just Completed my **Practical Junior Penetration Tester** (PJPT) Practice and 
 </p>
 
 
-
-<h2 align="center">My Github Stats ⚖️</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sec-fortress&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sec-fortress&theme=radical&hide_border=false)<br/>
-
-
-
-
-<h2 align="center">Let's Connect 📫</h2>
-
-
-<div align="center">
-<a href="https://www.linkedin.com/in/sci-sec" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/sec-fortress" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/sec_fortress" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/https://youtube.com/@sec-fortress" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
