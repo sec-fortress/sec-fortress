@@ -18,7 +18,7 @@
           <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=1793D1&center=true&width=410&height=45&lines=I+use+arch+btw+<3">
       </samp>
     </p>
-<p align="center"><a href="https://www.debian.org/">
+<p align="center"><a href="https://kali.org/">
     <img src="https://i.postimg.cc/FRT10RrC/Kali-Linux-Penetration-Testing-and-Ethical-Hacking-Linux-Distribution-removebg-preview.png" height="20%" width="20%">
 </a></p>
         <br> 
