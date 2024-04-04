@@ -49,3 +49,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sec-fortress&show_icons=true&theme=dracula&layout=compact&hide=html,roff,css" />
 </a></p>
 <p align="right"><strong><samp>」</samp></strong></p>
+
+<details>
+  <summary><b><samp>HackTheBox </samp></b></summary>
+
+  <a href="https://app.hackthebox.eu/profile/496941">
+<img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
+  </a>
+  <br></br>
+  </details>
+  
+  <details>
+  <summary><samp><b>TryHackMe</b></samp></summary>
+
+  <a href="https://tryhackme.com/p/v37r1x">
+<img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/v37r1x.png" alt="TryHackMe">
+  </a>
+  <br></br>
+  </details>
