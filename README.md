@@ -41,9 +41,15 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="linux-OS" width="40" height="40"/>
 </a>
-<a href="https://es.wikipedia.org/wiki/Bash" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
-</a> </p>
+<a href="https://www.oracle.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://www.oracle.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt="ohmyZsh" width="40" height="40"/>
+</a>
 <br>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sec-fortress&show_icons=true&theme=dracula&layout=compact&hide=html,roff,css" />
