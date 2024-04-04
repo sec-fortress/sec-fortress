@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://app.hackthebox.eu/profile/496941">
-    <img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
+    <img src="https://app.hackthebox.com/profile/623459" alt="Hack The Box">
   </a>
   <a href="https://tryhackme.com/p/v37r1x">
     <img src="https://tryhackme-badges.s3.amazonaws.com/secfortress.png" alt="TryHackMe">
