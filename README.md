@@ -29,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" alt="linux-OS" width="40" height="40"/>
 </a>
 <a href="https://es.wikipedia.org/wiki/Bash" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-plain.svg" alt="ohmyZsh" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
 </a> </p>
 <br>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
