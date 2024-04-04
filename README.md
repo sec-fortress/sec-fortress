@@ -5,7 +5,7 @@
             Hello There!
         <br>
             I'm Olaoluwa, a 19yr/old Criminology Student, Also a Linux & Active Directory enthusiast.
-                I love to Script/Automate stuff in my free time, Also love to play CTFs sometimes :)
+                I love to Script/Automate tasks in my free time and love to play CTFs xD
             </b>
         <br>
         <br>
