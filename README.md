@@ -53,17 +53,46 @@
 <details>
   <summary><b><samp>HackTheBox </samp></b></summary>
 
-  <a href="https://app.hackthebox.eu/profile/496941">
-<img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
-  </a>
-  <br></br>
-  </details>
-  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Centered and Side by Side Elements</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container details {
+    margin: 0 10px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
   <details>
-  <summary><samp><b>TryHackMe</b></samp></summary>
-
-  <a href="https://tryhackme.com/p/v37r1x">
-<img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/v37r1x.png" alt="TryHackMe">
-  </a>
-  <br></br>
+    <summary><samp><b>Hack The Box</b></samp></summary>
+    <a href="https://app.hackthebox.eu/profile/496941">
+      <img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
+    </a>
+    <br><br>
   </details>
+  <details>
+    <summary><samp><b>TryHackMe</b></samp></summary>
+    <a href="https://tryhackme.com/p/v37r1x">
+      <img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/v37r1x.png" alt="TryHackMe">
+    </a>
+    <br><br>
+  </details>
+</div>
+</body>
+</html>
+
