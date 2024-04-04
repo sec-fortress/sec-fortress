@@ -92,6 +92,21 @@
 <a href="https://bloodhound.readthedocs.io/en/latest/" target="_blank">
     <img src="https://i.postimg.cc/5yS5JGmK/1-E0-I-QO-1-U8y-ROC6-Fb-Uy-HGA-removebg-preview.png" alt="linux-OS" width="40" height="40"/>
 </a>
+<a href="https://www.snort.org/" target="_blank">
+    <img src="https://i.postimg.cc/RhW3sDDn/download-removebg-preview-1.png" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://i.postimg.cc/RZdH0KKh/download.jpg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="https://wazuh.com/" target="_blank">
+    <img src="https://i.postimg.cc/y8G7nNzn/images-removebg-preview-2.png" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt="linux-OS" width="40" height="40"/>
+</a>
 <a href="https://ohmyz.sh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
 </a> </p>
