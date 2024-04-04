@@ -47,6 +47,18 @@
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="linux-OS" width="40" height="40"/>
 </a>
+<a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/>
+</a>
+<a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt="linux-OS" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt="linux-OS" width="40" height="40"/>
+</a>
 <a href="https://ohmyz.sh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
 </a> </p>
