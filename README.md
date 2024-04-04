@@ -18,7 +18,7 @@
           <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=1793D1&center=true&width=410&height=45&lines=I+use+arch+btw+<3">
       </samp>
     </p>
-<p align="center"><a href="https://archlinux.org/">
+<p align="center"><a href="https://www.debian.org/">
     <img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%">
 </a></p>
         <br> 
