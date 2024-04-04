@@ -56,7 +56,7 @@
     <img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
   </a>
   <a href="https://tryhackme.com/p/v37r1x">
-    <img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/v37r1x.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/secfortress.png" alt="TryHackMe">
   </a>
 </p>
 
