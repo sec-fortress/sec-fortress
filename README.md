@@ -125,6 +125,3 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Olaoluwa/30-nites-of-code)  
-  ![@Olaoluwa #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Olaoluwa)
