@@ -124,6 +124,7 @@
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-
-https://i.postimg.cc/Jzhh0dwR/download-removebg-preview-3.png
+<a href="https://bloodhound.readthedocs.io/en/latest/" target="_blank">
+    <img src="https://i.postimg.cc/Jzhh0dwR/download-removebg-preview-3.png " alt="linux-OS" width="40" height="40"/>
+</a>
 
